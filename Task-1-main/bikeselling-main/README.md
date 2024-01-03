@@ -1,5 +1,5 @@
-# blogapp
-The MERN-based blog app with editing functionality and a proper login/register authentication system is a full-stack web application that allows users to read, create, edit, and manage blog posts securely.
+# bike selling app
+The MERN-based bike selling app with editing functionality and a proper login/register authentication system is a full-stack web application that allows users to read, create, edit, and manage bikes posts securely.
 <img width="662" alt="image" src="https://github.com/aman-kh234/blogapp/assets/105110869/db3a6064-e5a4-4992-b60a-21255ae355ac">
 <img width="702" alt="image" src="https://github.com/aman-kh234/blogapp/assets/105110869/d382f8ac-fef1-401e-b5a0-3c5427b50073">
 
